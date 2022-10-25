@@ -1,0 +1,38 @@
+.header {
+	width: 100%;
+	margin: 0 0 50px 0;
+	background-color: #0002;
+	padding: 20px 0;
+	display: flex;
+	justify-content: center;
+}
+
+.header_content {
+	width: 93%;
+	max-width: 1150px;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.file {
+	display: none;
+}
+
+.file_button {
+	background-color: rgb(0, 193, 215);
+	border-radius: 7px;
+	color: #fff;
+	padding: 10px 30px;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.file_button:hover {
+	background-color: rgb(0, 174, 193);
+}
+
+.add_icon {
+	font-size: 20px;
+}

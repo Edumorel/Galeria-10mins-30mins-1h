@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+	outline: none;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #ddd;
+	color: #222;
+}
+
+#root {
+	height: 100vh;
+}
